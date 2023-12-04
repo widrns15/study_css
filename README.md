@@ -1,8 +1,5 @@
-# React + Vite
+# Study_CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![FrontEnd-Test-Image](https://github.com/widrns15/study_css/assets/85780501/c0274a2d-bfd3-4ecb-a587-fc3d4dd9678b)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> #### 각자 색이 다른 사각형을 z-index로 이용하여 배치하는 CSS 연습입니다 ✨
